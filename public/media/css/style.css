@@ -1,0 +1,48 @@
+.main {
+    margin: 0 auto;
+    width: 1200px;
+    border:2px dotted #eee;
+}
+
+
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.container .row.header>div {
+    border: 1px solid rgba(86, 61, 124, .2);
+    padding: 10px;
+
+}
+
+.container .row {
+    margin-bottom: 10px;
+}
+
+.container img{
+    width: 160px;
+}
+
+.container .form-group {
+    text-align: left;
+}
+
+.preview .preview-item {
+    margin-bottom: 5px;
+    text-align: left;
+}
